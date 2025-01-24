@@ -1,0 +1,1 @@
+{"name":"Local: quick","url":"e:\\Codeforces\\Exam_codes\\quick.cpp","tests":[{"id":1734106525201,"input":"6\n10 7 8 9 1 5","output":"1 5 7 8 9 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Exam_codes\\quick.cpp","group":"local","local":true}

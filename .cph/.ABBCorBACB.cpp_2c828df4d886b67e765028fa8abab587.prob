@@ -1,0 +1,1 @@
+{"name":"Local: ABBCorBACB","url":"e:\\Codeforces\\ABBCorBACB.cpp","tests":[{"id":1698321055277,"input":"8\nABBA\nABA\nBAABA\nABB\nAAAAAAB\nBABA\nB\nAAA\n","output":"2\n1\n3\n1\n6\n2\n0\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\ABBCorBACB.cpp","group":"local","local":true}

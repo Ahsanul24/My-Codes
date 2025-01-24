@@ -1,0 +1,1 @@
+{"name":"Local: dijsktra","url":"e:\\Codeforces\\Exam_codes\\dijsktra.cpp","tests":[{"id":1734154439455,"input":"5 10\nA B 5\nA C 10\nB A 5\nB D 2\nC A 10\nC D 1\nD B 2\nD C 1\nD E 3\nE D 3\nA E\nB D 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Exam_codes\\dijsktra.cpp","group":"local","local":true}

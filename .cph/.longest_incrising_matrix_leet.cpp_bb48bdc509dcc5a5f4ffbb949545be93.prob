@@ -1,0 +1,1 @@
+{"name":"Local: longest_incrising_matrix_leet","url":"e:\\Codeforces\\longest_incrising_matrix_leet.cpp","tests":[{"id":1716632378499,"input":"3 3\n9 9 4\n6 6 8\n2 1 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\longest_incrising_matrix_leet.cpp","group":"local","local":true}

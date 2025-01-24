@@ -1,0 +1,1 @@
+{"name":"Local: Add Odd or Subtract Even","url":"e:\\Codeforces\\Add Odd or Subtract Even.c","tests":[{"id":1698321310385,"input":"5\n2 3\n10 10\n2 4\n7 4\n9 3\n","output":"1\n0\n2\n2\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Add Odd or Subtract Even.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: segment_seive","url":"e:\\Codeforces\\segment_seive.cpp","tests":[{"id":1735145109160,"input":"2\n1 10\n3 5","output":"2\n3\n5\n7\n\n3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\segment_seive.cpp","group":"local","local":true}

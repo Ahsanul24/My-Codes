@@ -1,0 +1,1 @@
+{"name":"Local: longest_len_sub_str_leet","url":"e:\\Codeforces\\longest_len_sub_str_leet.cpp","tests":[{"id":1717264279096,"input":"6\nabcabcbb\nbbbbb\npwwkew\nau\ndvdf\nabba","output":"3\n1\n3\n2\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\longest_len_sub_str_leet.cpp","group":"local","local":true}

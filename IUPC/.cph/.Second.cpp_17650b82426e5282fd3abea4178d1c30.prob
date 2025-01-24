@@ -1,0 +1,1 @@
+{"name":"Local: Second","url":"e:\\Codeforces\\IUPC\\Second.cpp","tests":[{"id":1720089866149,"input":"5 \n2 7 -2 1 2","output":"5"},{"id":1720102073224,"input":"3\n-2 -2 0 \n","output":"2"},{"id":1720102838023,"input":"5\n1 2 3 4 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\IUPC\\Second.cpp","group":"local","local":true}

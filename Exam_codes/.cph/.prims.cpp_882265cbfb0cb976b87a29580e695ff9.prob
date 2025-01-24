@@ -1,0 +1,1 @@
+{"name":"Local: prims","url":"e:\\Codeforces\\Exam_codes\\prims.cpp","tests":[{"id":1734180935337,"input":"4 5\n0 1 10\n0 2 6\n0 3 5\n1 3 15\n2 3 4","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Exam_codes\\prims.cpp","group":"local","local":true}

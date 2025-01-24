@@ -1,0 +1,1 @@
+{"name":"Local: Segment_tree","url":"e:\\Codeforces\\Segment_tree.cpp","tests":[{"id":1715880069653,"input":"7\n4 -9 3 7 1 0 2","output":"4\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Segment_tree.cpp","group":"local","local":true}

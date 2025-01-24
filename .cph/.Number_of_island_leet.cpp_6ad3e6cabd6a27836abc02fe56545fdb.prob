@@ -1,0 +1,1 @@
+{"name":"Local: Number_of_island_leet","url":"e:\\Codeforces\\Number_of_island_leet.cpp","tests":[{"id":1712576698803,"input":"4 5\n1 1 0 0 0\n1 1 0 0 0\n0 0 1 0 0\n0 0 0 1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Number_of_island_leet.cpp","group":"local","local":true}

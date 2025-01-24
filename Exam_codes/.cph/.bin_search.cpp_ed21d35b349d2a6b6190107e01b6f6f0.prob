@@ -1,0 +1,1 @@
+{"name":"Local: bin_search","url":"e:\\Codeforces\\Exam_codes\\bin_search.cpp","tests":[{"id":1734109142730,"input":"5 10\n2 3 4 10 40","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\Exam_codes\\bin_search.cpp","group":"local","local":true}

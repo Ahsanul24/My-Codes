@@ -1,0 +1,1 @@
+{"name":"Local: c++prac","url":"e:\\Codeforces\\c++prac.cpp","tests":[{"id":1731512066074,"input":"2\n2\n8 9\n1 100\n2\n1 24\n9 22","output":"0\n13\n7\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces\\c++prac.cpp","group":"local","local":true}
